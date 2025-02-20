@@ -16,5 +16,5 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1. **Depoyu Klonlayın**:
    ```bash
-   git clone https://github.com/kullanici-adiniz/cv-olusturma-uygulamasi.git
-   cd cv-olusturma-uygulamasi
+   git clone https://github.com/kilicsamet/cv-generator.git
+   cd cv-generator
